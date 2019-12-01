@@ -1,0 +1,39 @@
+{
+    "global": {
+        "site_name": "Sunnybrook Donations by Envision",
+        "bypassAuth": "chris.murdy@envision.design,admin@envision.design",
+        "tables": [
+            "empty",
+            "donors",
+            "donors_category",
+            "playlist",
+            "playlist_layout",
+            "playlist_sequence",
+            "sessions",
+            "users",
+            "media"
+        ],
+        "url": "https://envision.jsmart.io",
+        "display_errors": true,
+        "root_folder": "/var/www/jsmart.io/envision/public",
+        "app_path": "/var/www/jsmart.io/envision/node/",
+        "cookie_secret": "HmLwHhSUoR5cdfkgMNRuI6xtUmuT5Z6AhdQwd6eUkN",
+        "cookie_saveUninitialized": "false",
+        "domain": "localhost",
+        "cookie_resave": "true",
+        "testmode": "on",
+        "cookie_secure": "true",
+        "cookie_httpOnly:": "false",
+        "cookie_maxage": "false",
+        "cookie_rolling": "true",
+        "cookie_expires_date": 253402300000000,
+        "cookie_duration": "30 * 60 * 1000000000",
+        "cookie_activeDuration": "5 * 60 * 1000000000",
+        "salt": "sunnybr00k",
+        "mailer_address": "donotreply@jsmart.io",
+        "mailer_password": "o4i3aa!33Y",
+        "mailer_smtp": "smtp.ionos.com",
+        "mailer_port": "587"
+    }
+}
+  
